@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10909" started-at="2022-07-28T00:03:13Z" finished-at="2022-07-28T00:03:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10909" started-at="2022-07-28T00:03:13Z" finished-at="2022-07-28T00:03:24Z">
+      <class name="com.RestAssuredMain.API.TC006_jsonResponse">
+        <test-method status="PASS" signature="jsonResponse()[pri:0, instance:com.RestAssuredMain.API.TC006_jsonResponse@66d2e7d9]" name="jsonResponse" duration-ms="534" started-at="2022-07-28T00:03:20Z" finished-at="2022-07-28T00:03:20Z">
+        </test-method>
+      </class>
+      <class name="com.RestAssuredMain.API.TC005_httpHeaderValidation">
+        <test-method status="PASS" signature="httpValidation()[pri:0, instance:com.RestAssuredMain.API.TC005_httpHeaderValidation@458ad742]" name="httpValidation" duration-ms="514" started-at="2022-07-28T00:03:19Z" finished-at="2022-07-28T00:03:19Z">
+        </test-method>
+      </class>
+      <class name="com.RestAssuredMain.API.TC007_queryParameter">
+        <test-method status="PASS" signature="queryParameter()[pri:0, instance:com.RestAssuredMain.API.TC007_queryParameter@6a024a67]" name="queryParameter" duration-ms="1743" started-at="2022-07-28T00:03:21Z" finished-at="2022-07-28T00:03:23Z">
+        </test-method>
+      </class>
+      <class name="com.RestAssuredMain.API.TC004_httpHeaderReader">
+        <test-method status="PASS" signature="httpReader()[pri:0, instance:com.RestAssuredMain.API.TC004_httpHeaderReader@7921b0a2]" name="httpReader" duration-ms="553" started-at="2022-07-28T00:03:23Z" finished-at="2022-07-28T00:03:24Z">
+        </test-method>
+      </class>
+      <class name="com.RestAssuredMain.API.TC009_AuthResponse">
+        <test-method status="PASS" signature="authResponse()[pri:0, instance:com.RestAssuredMain.API.TC009_AuthResponse@1efbd816]" name="authResponse" duration-ms="564" started-at="2022-07-28T00:03:18Z" finished-at="2022-07-28T00:03:18Z">
+        </test-method>
+      </class>
+      <class name="com.RestAssuredMain.API.TC002_GetResponse">
+        <test-method status="PASS" signature="getResponse()[pri:0, instance:com.RestAssuredMain.API.TC002_GetResponse@5056dfcb]" name="getResponse" duration-ms="630" started-at="2022-07-28T00:03:20Z" finished-at="2022-07-28T00:03:21Z">
+        </test-method>
+      </class>
+      <class name="com.RestAssuredMain.API.TC010_postRequest">
+        <test-method status="PASS" signature="postResponse()[pri:0, instance:com.RestAssuredMain.API.TC010_postRequest@174d20a]" name="postResponse" duration-ms="4627" started-at="2022-07-28T00:03:13Z" finished-at="2022-07-28T00:03:18Z">
+        </test-method>
+      </class>
+      <class name="com.RestAssuredMain.API.TC008_putResponse">
+        <test-method status="PASS" signature="postResponse()[pri:0, instance:com.RestAssuredMain.API.TC008_putResponse@5afa04c]" name="postResponse" duration-ms="549" started-at="2022-07-28T00:03:23Z" finished-at="2022-07-28T00:03:23Z">
+        </test-method>
+      </class>
+      <class name="com.RestAssuredMain.API.TC003_httpResponse">
+        <test-method status="PASS" signature="httpHeaders()[pri:0, instance:com.RestAssuredMain.API.TC003_httpResponse@6ea12c19]" name="httpHeaders" duration-ms="577" started-at="2022-07-28T00:03:19Z" finished-at="2022-07-28T00:03:20Z">
+        </test-method>
+      </class>
+      <class name="com.RestAssuredMain.API.TC001_ResponseTest">
+        <test-method status="PASS" signature="GetBooksDetails()[pri:0, instance:com.RestAssuredMain.API.TC001_ResponseTest@2344fc66]" name="GetBooksDetails" duration-ms="564" started-at="2022-07-28T00:03:18Z" finished-at="2022-07-28T00:03:19Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
